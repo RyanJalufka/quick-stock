@@ -1,0 +1,13 @@
+body    {
+    font-family: 'Comfortaa', cursive;
+    background-color: whitesmoke;
+}
+html {
+  position: relative;
+  min-height: 100%;
+  text-align: center;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
